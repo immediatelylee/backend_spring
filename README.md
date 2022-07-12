@@ -1,5 +1,6 @@
 # 네이버 api를 이용한 맛집리스트 저장페이지 V1
 
+![포트폴리오](https://user-images.githubusercontent.com/50638197/178477732-99eeb915-8d61-4f6b-bd4b-b4d9c174eac9.gif)
 
 ### 1. 초기화면
 
